@@ -1,3 +1,3 @@
 # filparty_network
 
-Provider : Filparty: https://provider.filparty.com
+Provider :  https://provider.filparty.com
